@@ -13,8 +13,6 @@ Practical Application II: finding what drives used car prices, with recommendati
 
 ## Findings
 
-![Attribute effects](images/attribute_effects.png)
-
 * **Age:** biggest factor. Cars lose about 7% of value per year.
 * **Mileage:** about 3–4% less per extra 10,000 miles.
 * **Diesel:** about 2× the price of a similar gas car.
